@@ -37,8 +37,6 @@ Também gosto de estudar lógica de programação, resolver problemas e explorar
   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg">
   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
-  <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
-  <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/delphi/delphi-original.svg">
   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
