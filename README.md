@@ -21,7 +21,8 @@ Tenho experiência prática com desenvolvimento de APIs, banco de dados relacion
 - Segurança com JWT
 - Java e Kotlin
 - C# e .NET
-- Estrutura de Dados e Big O
+- Delphi
+- Estrutura de Dados
 - Git e Linux
 
 Também gosto de estudar lógica de programação, resolver problemas e explorar novas tecnologias para melhorar meus projetos.
