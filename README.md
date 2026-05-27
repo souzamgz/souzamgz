@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre Mim
 
-Me chamo **Miguel Souza**, sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia, backend e desenvolvimento de software.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia, backend e desenvolvimento de software.
 
 Tenho experiência prática com desenvolvimento de APIs, banco de dados relacionais, autenticação, Git/GitHub e projetos acadêmicos. Atualmente estou focado em evoluir minhas habilidades em:
 
